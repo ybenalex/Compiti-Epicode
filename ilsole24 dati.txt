@@ -1,0 +1,57 @@
+DATO SETTIMANALE AGGREGATO, variazione % rispetto alla precedente e totale da inizio pandemia
+NUOVI
+CASI
+
+13.208
+-9,7%
+
+Totali  25.870.833
+
+MORTI
+
+
+125
+-16,7%
+
+Totali  190.517
+
+TERAPIA
+INTENSIVA
+
+-9
+-12%
+
+Totali  66
+
+RICOVERATI
+CON SINTOMI
+
+-230
+-11,5%
+
+Totali  1.774
+
+DIMESSI/
+GUARITI
+
+15.114
+-12,1%
+
+Totali  25.560.511
+
+ATTUALMENTE
+POSITIVI
+
+-1.978
+-1,6%
+
+Totali  119.805
+
+ISOLAMENTO
+DOMICILIARE
+
+-1.739
+-1,5%
+
+Totali  117.965
+
