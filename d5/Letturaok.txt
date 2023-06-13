@@ -44,6 +44,4 @@ e) tutti gli utenti devono sapere gli orari di aperture in base a le loro intera
     # Come ti trovi con il sofware che gestisce la biblioteca sul pc ? che difficolta incontri ? etc...
    Esempi di suggerimento dei utenti :
     # e meglio che la biblioteca apre in orario continuato
-    # sarebbe piu comodo di poter prestare 2 libri a la volta , etc
- 
- 
+    # sarebbe piu comodo di poter prestare 2 libri a la volta , etc...
