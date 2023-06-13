@@ -12,13 +12,13 @@ d) servizi connessi : servizio di pulizia, servizio di sicurezza , servizio inte
    Come possiamo identificare questi attori :
 
 a) per gli impiegati possiamo registrare il nome, il cognome , la data di nascita , la data di assunzione,
-   la mansione, il numero di matricola, una foto, il codice fiscale
+   la mansione, il numero di matricola, una foto, il codice fiscale, il numero di telefono, una email
 b) per gli clienti possiamo assegnarli una tessera che comporta il nome, il cognome , la data di nascita
-   la data di iscrizione, un numero di matricola, una foto, il codice fiscale
+   la data di iscrizione, una matricola, una foto, il codice fiscale,il numero di telefono, una email
 c) per gli fornitore , sempre con un tesserino , il nome , la partita iva , un numero di matricola, data 
-   di inizio collaborazione
+   di inizio collaborazione, il numero di telefono, una email
 d) per gli servizi connessi, sempre con un tesserino , il nome , la partita iva , un numero di matricola, data 
-   di inizio collaborazione
+   di inizio collaborazione,il numero di telefono, una email
 
    Quali sono le problematiche che possiamo incontrare a l interno della biblioteca :
 
