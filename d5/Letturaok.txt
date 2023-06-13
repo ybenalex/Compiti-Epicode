@@ -1,0 +1,49 @@
+                     PARTE 1
+
+   La biblioteca LETTURAOK chiede di sviluppare un sistema in grado di gestire le problematiche interne 
+
+   Quali possono essere gli differenti attori intorno a la biblioteca :
+
+a) gli impiegati della biblioteca : l administrattore , gli addetti , il ragionnere     
+b) i clienti : gli utenti, le scuole , le ente 
+c) i fornitori : altre biblioteche, le associazioni , le librarie, gli utenti
+d) servizi connessi : servizio di pulizia, servizio di sicurezza , servizio internet  
+
+   Come possiamo identificare questi attori :
+
+a) per gli impiegati possiamo registrare il nome, il cognome , la data di nascita , la data di assunzione,
+   la mansione, il numero di matricola, una foto, il codice fiscale
+b) per gli clienti possiamo assegnarli una tessera che comporta il nome, il cognome , la data di nascita
+   la data di iscrizione, un numero di matricola, una foto, il codice fiscale
+c) per gli fornitore , sempre con un tesserino , il nome , la partita iva , un numero di matricola, data 
+   di inizio collaborazione
+d) per gli servizi connessi, sempre con un tesserino , il nome , la partita iva , un numero di matricola, data 
+   di inizio collaborazione
+
+   Quali sono le problematiche che possiamo incontrare a l interno della biblioteca :
+
+a) la biblioteca deve avere un spazio per la lettura e la consultazione dei libri al suo interno, quindi 
+   dobbiamo sapere il numero di posti disponibile, 
+b) l accesso deve essere regolamento con tesserino con numero identificativo , per poter sapere chi e
+   a l interno o no , e anche quante personne
+c) la biblioteca deve avere un repertorio di tutto i suoi libri disponibile, quelli che si possone
+   prestare a casa , quelli che si possono leggere sul posto . la biblioteca deve anche essere in grado
+   di sapere chi a prestato un libro quando e per quanto tempo , 
+d) la biblioteca deva sapere i giorni in cui interagisce con i vari servizi connessi, per esempio se il 
+   le pulizie si fanno tutte le mattine o 2 volte alla settimana, se c e un agente di sicurezza tutti 
+   giorni o no etc...
+e) tutti gli utenti devono sapere gli orari di aperture in base a le loro interazioni con la biblioteca ,
+   poi gli impiegati devono avere un piano di orari di lavoro
+   
+   Per conoscere le problematiche specifiche legate a questa biblioteca, possiamo usare le varie techniche
+   di raccolta di dati nella fase di explorazione, in questo caso visto il numero ridotto di impiegati 
+   possiamo usare le interviste individuali per gli impiegati e gli suggerimenti spontanei dei utenti.
+   Esempi di domande nelle interviste:
+    # gli orari di lavoro ti vanno bene ? cosa suggerisci ?
+    # il numero di dipendenti vi sembra corretto ? perche ?
+    # Come ti trovi con il sofware che gestisce la biblioteca sul pc ? che difficolta incontri ? etc...
+   Esempi di suggerimento dei utenti :
+    # e meglio che la biblioteca apre in orario continuato
+    # sarebbe piu comodo di poter prestare 2 libri a la volta , etc
+ 
+ 
