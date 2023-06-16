@@ -1,0 +1,8 @@
+nella tabella Dipendenti la chiave primaria e la matricola
+nella tabella clienti la chiave primaria e il n° di tessera
+nella tabella fornitori la chiave primaria e la matricola
+nella tabella libri la chiave primaria e il codice libri
+nella tabella transazioni la chiave primaria e ID de la transazione et 
+   le chiave secondarie sono la matricola , il numero di tessera , il 
+   codice libri, questi permettono di fare il collegamento con le altre 
+   tabelle.
